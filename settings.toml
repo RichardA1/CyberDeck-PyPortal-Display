@@ -1,0 +1,10 @@
+# ============================================================
+#  CyberDeck PyPortal — settings.toml
+#  WiFi + MQTT credentials
+#  Store this file in the ROOT of your CIRCUITPY drive.
+#  Do NOT commit this file to a public Git repo.
+# ============================================================
+
+# ── WiFi (CyberDeck private network) ─────────────────────────
+CIRCUITPY_WIFI_SSID     = "CyberDeck-Private"   # ← CHANGE ME
+CIRCUITPY_WIFI_PASSWORD = "your-wpa2-password"  # ← CHANGE ME
